@@ -1,23 +1,21 @@
-[![Gmail Badge](https://img.shields.io/badge/-flavio13lins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flavio13lins@gmail.com)](mailto:flavio13lins@gmail.com)  [![Website Badge](https://img.shields.io/badge/Flavio13Lins-Website-blue?logo=webpage&link=https://flavio13lins.github.io/FlavioResume)](https://flavio13lins.github.io/FlavioResume)
+[![Gmail Badge](https://img.shields.io/badge/-flavio13lins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flavio13lins@gmail.com)](mailto:flavio13lins@gmail.com)  [![Website Badge](https://img.shields.io/badge/Flavio13Lins-Website-6b55fa?logo=webpage&link=https://flavio13lins.github.io/FlavioResume)](https://flavio13lins.github.io/FlavioResume)
 
 <img align="right" src="https://img.freepik.com/free-vector/organic-flat-business-person-meditating_23-2148909248.jpg" alt="Illustration" title="AnyIllustration" width=450/>
     
-<h1 align="left">Hi 👋🏽, I'm Flávio Lins da Mota Nascimento</h1>
 
-<h3 align="left">Passionate about technology, Cloud Computing, and building innovative solutions. 🚀</h3>
+<h3 align="left">Hi 👋🏽, I'm Flávio Lins da Mota Nascimento</h3>
+
+<h5 align="left">Passionate about technology, Cloud Computing, and building innovative solutions. 🚀</h5>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 🎓 B.Sc. in Computer Engineering graduate from UFPE, Brazil. </b></p>
-        <p>• ℹ️ Hobbies: <b> Music 🎧 🎶 | Exercises 🏊🏽‍♂️ 🎾 | Homemade Soap 🧼 🫧 </b></p>
-</div><br>
+    <p>• 🎓 B.Sc. in Computer Engineering graduate from UFPE, Brazil. </b></p>
+    <p>• ℹ️ Hobbies: <b> Music 🎧 🎶 | Exercises 🏊🏽‍♂️ 🎾 | Homemade Soap 🧼 🫧 </b></p>
+</div>
 
 <div align="center">
-    <!--
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=leydsonbarros&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="flavio13lins" />
-    -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flavio13lins&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="flavio13lins" />
-</div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flavio13lins&title_color=6b55fa&text_color=323232&layout=compact&bg_color=ffa9d3&border_color=ffbda7" alt="flavio13lins" />
+</div><br>
     
 ---
 
