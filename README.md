@@ -39,6 +39,7 @@
     <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/-mariadb-white?logo=mariadb&logoColor=003545&style=for-the-badge" alt="mariadb"/></a>
     <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/-redis*-white?logo=redis&logoColor=DC382D&style=for-the-badge" alt="redis"/></a><br>
     <a href="https://cloud.google.com/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-GCP-white?logo=google&style=for-the-badge" alt="googlegcp"/></a>
+    <a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/nginx-white.svg?style=for-the-badge&logo=nginx&logoColor=000" alt="nginx"/></a>
     <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jquery-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
     <a href="https://webpack.js.org/" target="_blank"><img src="https://img.shields.io/badge/-webpack-white?logo=webpack&logoColor=8DD6F9&style=for-the-badge" alt="webpack"/></a>
     <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=CB3837&style=for-the-badge" alt="npm"/></a>
