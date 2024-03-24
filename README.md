@@ -25,6 +25,7 @@
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-white.svg?style=for-the-badge&logo=python&logoColor=777BB4" alt="python"/></a>
     <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/java-white.svg?style=for-the-badge&logo=openjdk&logoColor=770000" alt="openjdk"/></a>
     <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/Swift-white.svg?style=for-the-badge&logo=swift&logoColor=FF2D20" alt="swift"/></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/bash-white.svg?style=for-the-badge&logo=gnubash" alt="bash"/></a>
     <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
     <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a><br>
     <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Vue.js-white?logo=vuedotjs&style=for-the-badge" alt="vuejs"/></a>
