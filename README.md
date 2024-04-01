@@ -20,25 +20,30 @@
 ---
 
 <div align="center">
-  <h3>💼 Languages and tools I know and keep improving until now:</h3><br>
+  <h3>I know and keep improving until now:</h3>
+  <h4>Programming Languages</h4><br>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>  
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-white.svg?style=for-the-badge&logo=python&logoColor=777BB4" alt="python"/></a>
     <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/java-white.svg?style=for-the-badge&logo=openjdk&logoColor=770000" alt="openjdk"/></a>
     <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/Swift-white.svg?style=for-the-badge&logo=swift&logoColor=FF2D20" alt="swift"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/bash-white.svg?style=for-the-badge&logo=gnubash" alt="bash"/></a>
+  <h4>Web Development</h4>
     <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
-    <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a><br>
+    <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
     <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Vue.js-white?logo=vuedotjs&style=for-the-badge" alt="vuejs"/></a>
     <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://img.shields.io/badge/vuetify*-white?logo=vuedotjs&logoColor=00DC82&style=for-the-badge" alt="vuetify"/></a>
     <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-bootstrap-white?logo=bootstrap&logoColor=7952B3&style=for-the-badge" alt="bootstrap"/></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-tailwind css*-white?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge" alt="tailwindcss"/></a><br>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-tailwind css*-white?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge" alt="tailwindcss"/></a>
+    <h4>Data Science</h4>
     <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Pandas*-white?logo=pandas&logoColor=fc0000&style=for-the-badge" alt="pandas"/></a>
     <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/-Numpy*-white?logo=numpy&logoColor=75c6ff&style=for-the-badge" alt="numpy"/></a>
-    <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/-scikit_learn*-white?logo=scikit-learn&style=for-the-badge" alt="scikit-learn"/></a><br>
+    <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/-scikit_learn*-white?logo=scikit-learn&style=for-the-badge" alt="scikit-learn"/></a>
+    <h4>Databases</h4>
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-postgresql-white?logo=postgresql&logoColor=4169E1&style=for-the-badge" alt="postgresql"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
     <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/-mariadb-white?logo=mariadb&logoColor=003545&style=for-the-badge" alt="mariadb"/></a>
-    <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/-redis*-white?logo=redis&logoColor=DC382D&style=for-the-badge" alt="redis"/></a><br>
+    <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/-redis*-white?logo=redis&logoColor=DC382D&style=for-the-badge" alt="redis"/></a>
+    <h4>DevOps and Tools</h4>
     <a href="https://cloud.google.com/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-GCP-white?logo=google&style=for-the-badge" alt="googlegcp"/></a>
     <a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/nginx-white.svg?style=for-the-badge&logo=nginx&logoColor=000" alt="nginx"/></a>
     <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jquery-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
