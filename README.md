@@ -9,8 +9,8 @@
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-    <p>• 🎓 B.Sc. in Computer Engineering graduate from UFPE, Brazil. </b></p>
-    <p>• ℹ️ Hobbies: <b> Music 🎧 🎶 | Exercises 🏊🏽‍♂️ 🎾 | Homemade Soap 🧼 🫧 | CTF Player 👾 🚩</b></p>
+    <p>🎓 B.Sc. in Computer Engineering graduate from UFPE, Brazil. </b></p>
+    <p>ℹ️ Hobbies: <br/><b> - Exercises 🏊🏽‍♂️ 🎾 | Homemade Soap 🧼 🫧 | CTF Player 👾 🚩</b></p>
 </div>
 
 <div align="center">
