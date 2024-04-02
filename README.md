@@ -21,7 +21,7 @@
 
 <div align="center">
   <h3>I know and keep improving until now:</h3>
-  <h4>Programming Languages</h4><br>
+  <h4>Programming Languages</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>  
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-white.svg?style=for-the-badge&logo=python&logoColor=777BB4" alt="python"/></a>
     <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/java-white.svg?style=for-the-badge&logo=openjdk&logoColor=770000" alt="openjdk"/></a>
