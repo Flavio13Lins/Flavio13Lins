@@ -9,7 +9,7 @@ flavio13lins@gmail.com
 <h3 align="left">Hi 👋🏽, I'm Flávio Lins da Mota Nascimento</h3>
 
 
-<h5 align="left"> 🚀</h5>
+<h5 align="left">Passionate about technology, Cloud Computing, and building innovative solutions. 🚀</h5>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
