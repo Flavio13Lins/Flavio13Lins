@@ -1,11 +1,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-flavio13lins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flavio13lins@gmail.com)](mailto:flavio13lins@gmail.com)  [![Website Badge](https://img.shields.io/badge/Flavio13Lins-Website-6b55fa?logo=webpage&link=https://flavio13lins.github.io/FlavioResume)](https://flavio13lins.github.io/FlavioResume)
+```
+flavio13lins@gmail.com
+```
 
 <img align="right" src="https://img.freepik.com/free-vector/organic-flat-business-person-meditating_23-2148909248.jpg" alt="Illustration" title="AnyIllustration" width=450/>
     
 
 <h3 align="left">Hi 👋🏽, I'm Flávio Lins da Mota Nascimento</h3>
 
-<h5 align="left">Passionate about technology, Cloud Computing, and building innovative solutions. 🚀</h5>
+
+<h5 align="left"> 🚀</h5>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
