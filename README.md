@@ -65,8 +65,8 @@ ___
 
 <div align="center">
   <h3>📱 Where to find me:</h3>
-    <a href="https://github.com/Flavio13Lins" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
     <a href="https://www.linkedin.com/in/flavio13lins/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    <a href="https://github.com/Flavio13Lins" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
     <a href="https://www.instagram.com/flavio13lins" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
     <a href="https://discordid.netlify.app/?id=654752684884361265" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=discord&color=4e3cc2&style=for-the-badge&logo=discord&logoColor=whitesmoke" alt="discord"></a>
 </div>
