@@ -28,8 +28,9 @@ flavio13lins@gmail.com
   <h4>Programming Languages</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>  
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-white.svg?style=for-the-badge&logo=python&logoColor=777BB4" alt="python"/></a>
-    <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/java-white.svg?style=for-the-badge&logo=openjdk&logoColor=770000" alt="openjdk"/></a>
+    <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/go-white.svg?style=for-the-badge&logo=go&logoColor=50b7e0" alt="golang"/></a>
     <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/Swift-white.svg?style=for-the-badge&logo=swift&logoColor=FF2D20" alt="swift"/></a>
+    <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/java-white.svg?style=for-the-badge&logo=openjdk&logoColor=770000" alt="openjdk"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/bash-white.svg?style=for-the-badge&logo=gnubash" alt="bash"/></a>
   <h4>Web Development</h4>
     <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
