@@ -1,18 +1,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-flavio13lins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flavio13lins@gmail.com)](mailto:flavio13lins@gmail.com)  [![Website Badge](https://img.shields.io/badge/Flavio13Lins-Website-6b55fa?logo=webpage&link=https://flavio13lins.github.io/FlavioResume)](https://flavio13lins.github.io/FlavioResume)
-```
-flavio13lins@gmail.com
-```
+
+
 
 <img align="right" src="https://img.freepik.com/free-vector/organic-flat-business-person-meditating_23-2148909248.jpg" alt="Illustration" title="AnyIllustration" width=450/>
-    
 
 <h3 align="left">Hi 👋🏽, I'm Flávio Lins da Mota Nascimento</h3>
-
 
 <h5 align="left">Passionate about technology, Cloud Computing, and building innovative solutions. 🚀</h5>
 
 <div align="left">
-    <h3>👨🏽‍💻 About me:</h3>
+    <h3>About me:</h3>
     <p>🎓 B.Sc. in Computer Engineering graduate from UFPE, Brazil. </b></p>
     <p>ℹ️ Hobbies: <br/><b> - Exercises 🏊🏽‍♂️ 🎾 | Homemade Soap 🧼 🫧 | CTF Player 👾 🚩</b></p>
 </div>
@@ -20,10 +17,16 @@ flavio13lins@gmail.com
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flavio13lins&title_color=6b55fa&text_color=323232&layout=compact&bg_color=ffa9d3&border_color=ffbda7" alt="flavio13lins" />
 </div><br>
+
+
+<div align="center">
+  <h3>👨🏽‍💻 Schedule a time with me:</h3>
+  <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ1s_oOVzalFr5jLI5ChTXOYzGp9C1yntFL8vaoQAfY792VCCW5FQ-AuuJw7Ss98WG8iXgqwYAHS?gv=true" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=calendar&color=4285F4&style=for-the-badge&logo=googlecalendar&logoColor=whitesmoke" alt="agenda"></a>
+</div>
     
 ---
 
-<div align="center">
+<div align="center" >
   <h3>I know and keep improving until now:</h3>
   <h4>Programming Languages</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>  
